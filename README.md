@@ -1,17 +1,16 @@
-# 🐳 Docker Demo Website (HTML + CSS)
+# 🐳 Nginx Docker Demo Website
 
 ## 📌 Project Overview
-This project demonstrates how to create a **static HTML + CSS website**, build a **Docker image**, and run it inside a **Docker container**.  
-It is perfect for beginners learning **Docker basics**, including images, containers, and port mapping.
+This demo shows how to use the **official Nginx Docker image** to run a web server, explore the image contents, and deploy a custom website from your local machine using Docker.
 
 ---
 
 ## 🧱 Technologies Used
-- **Docker**
-- **Nginx** (to serve HTML + CSS)
-- **HTML**
-- **CSS**
+- Docker  
+- Nginx  
+- HTML  
+- CSS (optional)
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure (Local HTML directory)
